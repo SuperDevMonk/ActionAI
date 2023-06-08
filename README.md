@@ -9,7 +9,7 @@
 ActionAI is a python library for training machine learning models to classify human action. It is a generalization of our [yoga smart personal trainer](https://www.hackster.io/yogai/yogai-smart-personal-trainer-f53744), which is included in this repo as an example.
 
 <p align="center">
-  <img src="https://github.com/SuperDevMonk/ActionAI/assets/ActionAI_main.gif">
+  <img src="https://github.com/smellslikeml/ActionAI/blob/master/assets/ActionAI_main.gif">
 </p>
 
 ## Getting Started 
@@ -72,7 +72,7 @@ If specified, this script will write a labeled video as ```out.mp4```. This demo
 
 ### Teachable Machine
 <p align="center">
-  <img src="https://github.com/SuperDevMonk/ActionAI/assets/teachable.gif">
+  <img src="https://github.com/smellslikeml/ActionAI/blob/master/assets/teachable.gif">
 </p>
 
 We've also included a script under the experimental folder, ```online_finetune.py```, that supports labelling samples via a PS3 Controller on a Jetson Nano and training in real-time from a webcam stream. This will require these extra dependencies:
